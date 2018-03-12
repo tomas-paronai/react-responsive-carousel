@@ -1,6 +1,6 @@
 {
   "name": "react-responsive-carousel",
-  "version": "3.1.33",
+  "version": "3.1.331",
   "description": "React Responsive Carousel",
   "author": {
     "name": "Leandro Augusto Lemos",
@@ -88,9 +88,7 @@
     "watchify": "^2.1.1"
   },
   "jest": {
-    "unmockedModulePathPatterns": [
-      "node_modules"
-    ],
+    "unmockedModulePathPatterns": ["node_modules"],
     "rootDir": "src"
   },
   "dependencies": {
